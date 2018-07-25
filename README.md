@@ -1,2 +1,2 @@
 # DummyRepo
-Created to pull Requests
+Created to get all pull Requests
